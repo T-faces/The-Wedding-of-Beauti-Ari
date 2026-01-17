@@ -1,4 +1,3 @@
-[tidak-hadir.md](https://github.com/user-attachments/files/24690700/tidak-hadir.md)
 ---
 name: Tidak Hadir
 about: Doakan kami di acara pernikahan kami
